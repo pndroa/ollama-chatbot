@@ -6,8 +6,11 @@ frontend/.next/
 gateway/target/
 
 # Python
-ai_service/venv/
-ai_service/__pycache__/
+ai-service/venv/
+ai-service/__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
 
 # OS & Environment
 .env
