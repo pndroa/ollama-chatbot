@@ -1,0 +1,14 @@
+# Node & Next.js
+frontend/node_modules/
+frontend/.next/
+
+# Rust
+gateway/target/
+
+# Python
+ai_service/venv/
+ai_service/__pycache__/
+
+# OS & Environment
+.env
+.DS_Store
